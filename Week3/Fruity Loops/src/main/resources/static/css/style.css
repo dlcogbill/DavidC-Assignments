@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+* {
+	color : black;
+}
+
+.container {
+    padding: 10px;
+    margin: 0px auto;
+    width: 60%;
+}
+    
+h1 {
+	color : pink;
+}
+
+.tableContainer {
+	background-color : pink;
+	padding: 10px;
+    margin: 0px auto;
+}
+
+table {
+	border-collapse : collapse;
+}
+
+tr {
+	border-bottom: 2pt solid pink;
+}
+
+td {
+	width : 400px;
+	height : 30px;
+	background-color : white;
+}
